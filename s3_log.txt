@@ -9,3 +9,164 @@ Completed 52 Bytes/52 Bytes (46 Bytes/s) with 1 file(s) remainingupload: .\test
 Completed 52 Bytes/52 Bytes (44 Bytes/s) with 1 file(s) remainingupload: .\test.txt to s3://prissy-771-storage/test.txt           
 2025-11-04 09:35:02         52 test.txt
 ./s3_storage.sh: line 47: downloaded_test.txt: command not found
+Completed 52 Bytes/52 Bytes (27 Bytes/s) with 1 file(s) remainingupload: .\test.txt to s3://prissy-771-storage/test.txt           
+2025-11-04 12:26:33         52 test.txt
+./s3_storage.sh: line 47: downloaded_test.txt: command not found
+Completed 52 Bytes/52 Bytes (37 Bytes/s) with 1 file(s) remainingupload: .\test.txt to s3://prissy-771-storage/test.txt           
+2025-11-04 12:32:44         52 test.txt
+./s3_storage.sh: line 47: downloaded_test.txt: command not found
+Completed 52 Bytes/52 Bytes (29 Bytes/s) with 1 file(s) remainingupload: .\test.txt to s3://prissy-771-storage/test.txt           
+2025-11-04 12:34:42         52 test.txt
+./s3_storage.sh: line 47: downloaded_test.txt: command not found
+Completed 19 Bytes/19 Bytes (12 Bytes/s) with 1 file(s) remainingupload: .\third.txt to s3://prissy-771-storage/third.txt         
+2025-11-04 12:34:42         52 test.txt
+2025-11-04 12:52:40         19 third.txt
+./s3_storage.sh: line 49: downloaded_: command not found
+delete: s3://prissy-771-storage/third.txt
+Completed 19 Bytes/19 Bytes (10 Bytes/s) with 1 file(s) remainingupload: .\third.txt to s3://prissy-771-storage/third.txt         
+2025-11-04 12:34:42         52 test.txt
+2025-11-04 12:57:42         19 third.txt
+./s3_storage.sh: line 49: downloaded_: command not found
+delete: s3://prissy-771-storage/third.txt
+Completed 19 Bytes/19 Bytes (12 Bytes/s) with 1 file(s) remainingupload: .\third.txt to s3://prissy-771-storage/third.txt         
+2025-11-04 12:34:42         52 test.txt
+2025-11-04 13:00:10         19 third.txt
+./s3_storage.sh: line 49: downloaded_: command not found
+2025-11-04 12:34:42         52 test.txt
+
+aws.exe: [ERROR]: the following arguments are required: paths
+
+usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
+To see help text, you can run:
+
+  aws help
+  aws <command> help
+  aws <command> <subcommand> help
+
+2025-11-04 12:34:42         52 test.txt
+
+aws.exe: [ERROR]: the following arguments are required: paths
+
+usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
+To see help text, you can run:
+
+  aws help
+  aws <command> help
+  aws <command> <subcommand> help
+
+2025-11-04 12:34:42         52 test.txt
+
+aws.exe: [ERROR]: the following arguments are required: paths
+
+usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
+To see help text, you can run:
+
+  aws help
+  aws <command> help
+  aws <command> <subcommand> help
+
+2025-11-04 12:34:42         52 test.txt
+
+aws.exe: [ERROR]: the following arguments are required: paths
+
+usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
+To see help text, you can run:
+
+  aws help
+  aws <command> help
+  aws <command> <subcommand> help
+
+2025-11-04 12:34:42         52 test.txt
+
+aws.exe: [ERROR]: the following arguments are required: paths
+
+usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
+To see help text, you can run:
+
+  aws help
+  aws <command> help
+  aws <command> <subcommand> help
+
+
+aws.exe: [ERROR]: the following arguments are required: paths
+
+usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
+To see help text, you can run:
+
+  aws help
+  aws <command> help
+  aws <command> <subcommand> help
+
+2025-11-04 12:34:42         52 test.txt
+
+aws.exe: [ERROR]: the following arguments are required: paths
+
+usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
+To see help text, you can run:
+
+  aws help
+  aws <command> help
+  aws <command> <subcommand> help
+
+
+aws.exe: [ERROR]: the following arguments are required: paths
+
+usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
+To see help text, you can run:
+
+  aws help
+  aws <command> help
+  aws <command> <subcommand> help
+
+2025-11-04 12:34:42         52 test.txt
+
+aws.exe: [ERROR]: the following arguments are required: paths
+
+usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
+To see help text, you can run:
+
+  aws help
+  aws <command> help
+  aws <command> <subcommand> help
+
+
+aws.exe: [ERROR]: the following arguments are required: paths
+
+usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
+To see help text, you can run:
+
+  aws help
+  aws <command> help
+  aws <command> <subcommand> help
+
+2025-11-04 12:34:42         52 test.txt
+Completed 19 Bytes/19 Bytes (14 Bytes/s) with 1 file(s) remainingupload: .\third.txt to s3://prissy-771-storage/third.txt         
+2025-11-04 12:34:42         52 test.txt
+2025-11-07 08:54:34         19 third.txt
+delete: s3://prissy-771-storage/third.txt
+
+The user-provided path third.txt/prissy-771-storage does not exist.
+2025-11-04 12:34:42         52 test.txt
+delete: s3://prissy-771-storage/third.txt/prissy-771-storage
+Completed 19 Bytes/19 Bytes (14 Bytes/s) with 1 file(s) remainingupload: .\third.txt to s3://prissy-771-storage/third.txt         
+2025-11-04 12:34:42         52 test.txt
+2025-11-07 09:08:17         19 third.txt
+delete: s3://prissy-771-storage/third.txt
+Completed 19 Bytes/19 Bytes (12 Bytes/s) with 1 file(s) remainingupload: .\third.txt to s3://prissy-771-storage/third.txt         
+2025-11-04 12:34:42         52 test.txt
+2025-11-07 09:19:55         19 third.txt
+Completed 19 Bytes/19 Bytes (12 Bytes/s) with 1 file(s) remainingupload: .\third.txt to s3://prissy-771-storage/third.txt         
+2025-11-04 12:34:42         52 test.txt
+2025-11-07 09:24:19         19 third.txt
+
+The user-provided path upload does not exist.
+2025-11-04 12:34:42         52 test.txt
+2025-11-07 09:24:19         19 third.txt
+
+The user-provided path upload does not exist.
+2025-11-04 12:34:42         52 test.txt
+2025-11-07 09:24:19         19 third.txt
+Completed 26 Bytes/26 Bytes (15 Bytes/s) with 1 file(s) remainingupload: .\capstone.txt to s3://prissy-771-storage/capstone.txt   
+2025-11-07 09:47:19         26 capstone.txt
+2025-11-04 12:34:42         52 test.txt
+2025-11-07 09:24:19         19 third.txt

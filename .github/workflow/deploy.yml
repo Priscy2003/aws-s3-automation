@@ -21,6 +21,6 @@ jobs:
         aws-region: us-east-1
 
      - name: Run s3 DeploymentScript
-       run: bash s3_deploy.sh
+       run: bash s3_storage.sh
 
 EOF .
